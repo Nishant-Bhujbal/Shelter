@@ -185,7 +185,7 @@ class PageDetail extends StatelessWidget {
       
             Padding(
             padding: EdgeInsets.symmetric(horizontal: kPaddingHorizontal),
-            child: Text("Shah Rukh Khan also known by the initialism SRK, is an Indian actor, film producer, and television personality who works in Hindi films. Referred to in the media as  he has appeared in more than 80 films, and earned numerous accolades, including 14 Filmfare Awards. He has been awarded the Padma Shri by the Government of India, as well as the Ordre des Arts et des Lettres and Legion of Honour by the Government of France. Khan has a significant following in Asia and the Indian diaspora worldwide. In terms of audience size and income, he has been described as one of the most successful film stars in the world.",
+            child: Text("The Golden Retriever is a Scottish breed of retriever dog of medium size. It is characterised by a gentle and affectionate nature and a striking golden coat. It is commonly kept as a pet and is among the most frequently registered breeds in several Western countries. It is a frequent competitor in dog shows and obedience trials; it is also used as a gundog, and may be trained for use as a guide dog.",
             style: kSourceSansProSemiBold.copyWith(
               fontSize: SizeConfig.blockSizeHorizontal!*4,
               color: kLightGreen,

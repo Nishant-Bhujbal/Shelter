@@ -27,7 +27,7 @@ class _MyAppState extends State<MyApp> {
     return MaterialApp(
       // debugShowCheckedModeBanner: false,
       home: Scaffold(
-        body: PageDetail(),
+        body: HomeScreen(),
         bottomNavigationBar: BottomNavigationBar(
           items: [
             BottomNavigationBarItem(icon: selectedIndex == 0 ? Icon(Icons.home) : Icon(Icons.home_outlined),
