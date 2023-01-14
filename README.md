@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-<img src="./assets/screenshots/HomeScreen.png">
+<img src="./assets/screenshots/HomeScreen.png" height="200" width="100">
 <img src="./assets/screenshots/DetailPage.png">
 This project is a starting point for a Flutter application.
 
